@@ -10,8 +10,8 @@ const transport = nodemailer.createTransport({
     host: "smtp.mailtrap.io",
     port: 2525,
     auth: {
-        user: "3d792b71cf6e5c",
-        pass: "0f3e3de29e0ad7",
+        user: "635851cc47013f",
+        pass: "80f79f8f6a7eff",
     },
 });
 
@@ -27,8 +27,15 @@ app.post("/feedbacks", async (req, res) => {
     });
 
     transport.sendMail({
-        from: "Gabriel Dürr <teste@feedget.com>",
-        to: "Diego Fernandes <batata@gmail.com",
+        from: "gab.durr project <hi@feedget.com>",
+        to: "Gabriel Durr <bield2r@gmail.com>",
+        subject: "New Feedback",
+        html: [
+            `<div style="font-family: sans-serif; font-size: 16px; color: #111;">`,
+            `<p>Tipo do feedback: ${type}</p>`,
+            `<p>Comentário: ${comment}</p>`,
+            `</div>`,
+        ].join("\n"),
     });
 
     return res.status(201).json({ data: feedback });

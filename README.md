@@ -1,12 +1,12 @@
 # nlw-return
 
-ReactJS and React Native
-Tailwind CSS
-TypeScript
-Expo
-vitejs
-express
-Prisma
+-   ReactJS and React Native
+-   Tailwind CSS
+    TypeScript
+    Expo
+    vitejs
+    express
+    Prisma
 
 -   Princípios SOLID
 -   Teste unitário com Jest

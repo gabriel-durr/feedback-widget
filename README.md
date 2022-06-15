@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img align="center" src="https://media2.giphy.com/media/uleKx67bTkTBDA9JFA/giphy.gif?cid=790b7611c5f23024097aafd427667463d49b6ea30797025b&rid=giphy.gif&ct=g" alt="Imagem do projeto" width="250px"> 
+<img align="center" src="https://media2.giphy.com/media/uleKx67bTkTBDA9JFA/giphy.gif?cid=790b7611c5f23024097aafd427667463d49b6ea30797025b&rid=giphy.gif&ct=g" alt="Imagem do projeto" width="400px" > 
 
 </div>
 

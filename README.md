@@ -82,16 +82,15 @@
 
 <br><br>
 
-
-```bash
 1- Clone the project:
+```bash
 
   $ git clone URL DO PROJETO && cd NOME DA PASTA DO PROJETO
-
+```
 
 2- To install dependencies: 
-   
-   
+```bash
+
   MOBILE:
   
   $ cd mobile 
@@ -104,9 +103,10 @@
   $ cd web or server
   $ npm install
   
- 
-
-3- To start the application: 
+ ```
+  
+ 3- To start the application: 
+```bash
     
   MOBILE:
   $ expo start 

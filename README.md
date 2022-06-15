@@ -21,26 +21,31 @@
 
 <h2 id="project"  align="center">⚡ The project  </h2> 
 
-<p  align="center"> Projeto criado no evento NLW Return da Rocketseat </p>
+<p  align="center"> Projeto criado no evento NLW Return da Rocketseat, é uma aplicação completa (web e mobile) com server.. Um widget para o client dar o feedback sobre algum possível problema na página, sugestão/ ideia.  
+</p>
+
+<p align="center"> Além disso é construída com <b>Princípios SOLID</b>, <b>Testes unitários</b> e com foco na <b>Acessibilidade</b>
+</p>
 
 <br>
 
 <h2 id="links">🔗 Links</h2>
 
--   Deploy Link: [link de deploy]() 
-
+-   [SWC](https://swc.rs/) 
+-   [Prisma IO](https://www.prisma.io/)
+-   [Headless UI](https://headlessui.dev/)
 <br><br>
 
 <h2 id="built_with"> 🧙‍♂️ Built with</h2> 
 <br>
 
 <div id="react-native">
-<img align="left" src="https://img.icons8.com/color/344/react-native.png" width="29px"/> 
+<img align="left" src="https://img.icons8.com/color/344/react-native.png" width="30px"/> 
     <p align="left"><code><b>React Native</b></code></p> 
 </div>
 
 <div id="react-js">
-<img align="left" src="https://img.icons8.com/officel/30/000000/react.png" width="32px"/> 
+<img align="left" src="https://img.icons8.com/officel/30/000000/react.png" width="30px"/> 
     <p align="left"><code><b>ReactJS</b></code></p> 
 </div>
 
@@ -62,10 +67,17 @@
 </div>
 
 
+<div id="prisma">
+<img  align="left" class="icon" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" width="32px"/>
+    <p  align="left"><code><b>Prisma IO</b></code></p>
+</div>
+
 <div id="jest">
 <img  align="left" class="icon" src="https://res.cloudinary.com/practicaldev/image/fetch/s--YORpNZ5O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5clicw559gztoxmzowp.png" width="30px"/>
     <p  align="left"><code><b>Jest</b></code></p>
 </div>
+
+
 
 
 <br><br>
@@ -78,15 +90,29 @@
 
 
 2- To install dependencies: 
-
+   
+   
+  MOBILE:
+  
+  $ cd mobile 
   $ expo install 
-  $ yarn add or npm install
-
+  
+  
+  
+  WEB / SERVER:
+  
+  $ cd web or server
+  $ npm install
+  
+ 
 
 3- To start the application: 
     
-  $ expo start
-  $ yarn start or npm start
+  MOBILE:
+  $ expo start 
+  
+  WEB/SERVER:
+  $ npm run dev 
   
 ```
 

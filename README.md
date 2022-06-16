@@ -24,7 +24,7 @@
 <p  align="center"> Projeto criado no evento NLW Return da Rocketseat, é uma aplicação completa (web e mobile) com server.. Um widget para o client dar o feedback sobre algum possível problema na página, sugestão/ ideia.  
 </p>
 
-<p align="center"> Além disso é construída com <b>Princípios SOLID</b>, <b>Testes unitários</b> e com foco na <b>Acessibilidade</b>
+<p align="center"> Além disso é construída com <b>Princípios SOLID</b>, <b>Testes unitários</b> e prioridade em <b>Acessibilidade</b>
 </p>
 
 <br>
@@ -82,39 +82,43 @@
 
 <br><br>
 
-1- Clone the project:
-```bash
+<b>1- Clone the project:</b>
 
+```bash
   $ git clone URL DO PROJETO && cd NOME DA PASTA DO PROJETO
 ```
 
-2- To install dependencies: 
-```bash
+<br/>
+<b>2- To install dependencies:</b> 
 
-  MOBILE:
-  
+<h6>MOBILE:</h6>
+
+```bash
   $ cd mobile 
   $ expo install 
+```
   
   
-  
-  WEB / SERVER:
-  
+<h6>WEB / SERVER:</h6>
+
+```bash
   $ cd web or server
   $ npm install
-  
- ```
-  
- 3- To start the application: 
-```bash
-    
-  MOBILE:
-  $ expo start 
-  
-  WEB/SERVER:
-  $ npm run dev 
-  
 ```
+<br/>
+<b>3- To start the application:</b> 
+ 
+ <h6>MOBILE:</h6>
+ 
+```bash
+  $ expo start 
+```
+  
+ <h6>WEB/SERVER:</h6>
+ 
+  ```bash
+  $ npm run dev 
+  ```
 
 <br><br>
 

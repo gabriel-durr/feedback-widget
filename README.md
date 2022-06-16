@@ -89,7 +89,7 @@
 ```
 
 <br/>
-<b>2- To install dependencies:</b> 
+<b>2- Install dependencies:</b> 
 
 <h6>MOBILE:</h6>
 
@@ -106,7 +106,7 @@
   $ npm install
 ```
 <br/>
-<b>3- To start the application:</b> 
+<b>3- Start the application:</b> 
  
  <h6>MOBILE:</h6>
  

@@ -85,7 +85,7 @@
 <b>1- Clone the project:</b>
 
 ```bash
-  $ git clone URL DO PROJETO && cd NOME DA PASTA DO PROJETO
+  $ git clone https://github.com/gabriel-durr/feedback-widget.git && cd feedback-widget
 ```
 
 <br/>

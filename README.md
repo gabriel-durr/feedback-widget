@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<p> Projeto criado no evento NLW Return da Rocketseat, é uma aplicação completa (web e mobile) com server.. Um widget para o client dar o feedback sobre algum possível problema na página, sugestão/ ideia. Além disso é construída com <b>Princípios SOLID</b>, <b>Testes unitários</b> e prioridade em <b>Acessibilidade</b>
+<p> Projeto criado no evento NLW Return da Rocketseat, é uma aplicação completa: web e mobile, com server.. Um widget para os clientes realizarem feedback sobre algum possível problema na página, sugestão/ ideia. Além disso é construída com <b>Princípios SOLID</b>, <b>Testes unitários</b> e prioridade em <b>Acessibilidade</b>
 
 </div>
 

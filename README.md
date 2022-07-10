@@ -132,13 +132,13 @@ This project is licensed under the [MIT License](License).
 
 <br>
 
-<h2 id = "author" align="center"></h2>
+<h5 id = "author" align="center"></h5>
 
 <table align="center">
   <tr>
       <td>
       <a href="https://github.com/gabriel-durr">
-        <img src="https://i.pinimg.com/736x/2d/0a/52/2d0a524829bc30e731bddac6fa0a0d08.jpg" width="80px;" alt="Image Gabriel Dürr Author"/><br>
+        <img src="https://i.pinimg.com/736x/2d/0a/52/2d0a524829bc30e731bddac6fa0a0d08.jpg" width="70px;" alt="Image Gabriel Dürr Author"/><br>
       </a>
       </td>
   </tr>
@@ -146,5 +146,21 @@ This project is licensed under the [MIT License](License).
 
 
 <div align="center">
-<sub><b><em>Made with 💜 by Gabriel Dürr </em></b></sub>
+        <sub><b><em>Made with 💜 by Gabriel Dürr </em></b></sub>
 </div>
+
+
+<br/>
+<br/>
+<br/>
+
+<h2></h2>
+
+<div align="center">
+        
+<h3 id="license" ></h3>
+
+> This project is licensed under the  &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](License)
+
+</div>
+

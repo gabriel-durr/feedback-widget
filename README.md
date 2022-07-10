@@ -125,13 +125,6 @@
 
 <br><br>
 
-<h2 id="license">📝 License</h2>
-
-
-This project is licensed under the [MIT License](License). 
-
-<br>
-
 <h5 id = "author" align="center"></h5>
 
 <table align="center">
@@ -152,7 +145,7 @@ This project is licensed under the [MIT License](License).
 
 <br/>
 <br/>
-<br/>
+
 
 <h2></h2>
 
@@ -163,4 +156,3 @@ This project is licensed under the [MIT License](License).
 > This project is licensed under the  &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](License)
 
 </div>
-
